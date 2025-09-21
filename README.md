@@ -1,4 +1,4 @@
-Language Used - Jaa
+#Language Used - Java
 #Question One
 ##getLongestString Method
 Initializes a result string and keeps track of the longest length found (len).
