@@ -1,4 +1,7 @@
 #Language Used - Java
+Execute file e.g java Question1_GetLongestString.java
+Java version - 21.0.8
+
 #Question One
 ##getLongestString Method
 Initializes a result string and keeps track of the longest length found (len).
